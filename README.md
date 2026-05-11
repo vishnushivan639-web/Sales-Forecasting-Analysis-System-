@@ -72,3 +72,10 @@ numpy
 matplotlib
 seaborn
 Jupyter Notebook
+<img width="656" height="425" alt="sales" src="https://github.com/user-attachments/assets/adb92104-f595-47cd-8166-4ed80affae4f" />
+<img width="655" height="479" alt="vizulization" src="https://github.com/user-attachments/assets/814b829c-3d0b-4d85-9d75-22f5ec78da6e" />
+<img width="628" height="445" alt="heatmap" src="https://github.com/user-attachments/assets/80fa02c7-a8a4-49ab-b6d2-e8789556b3bd" />
+<img width="548" height="443" alt="outliers" src="https://github.com/user-attachments/assets/231f2a58-5718-4fa8-8efa-7155c9e6a212" />
+
+
+
